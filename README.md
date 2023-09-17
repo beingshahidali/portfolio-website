@@ -1,9 +1,9 @@
-Certainly! Below is a sample `README.md` file for your React.js and Tailwind CSS portfolio website deployed at https://govind-kumar.netlify.app/. You can customize it with your specific information:
 
-```markdown
+
+
 # Govind Kumar - Portfolio Website
 
-![Portfolio Preview](your-portfolio-image-url.jpg)
+
 
 Welcome to my portfolio website built using React.js and Tailwind CSS. You can visit the live site here: [https://govind-kumar.netlify.app/](https://govind-kumar.netlify.app/)
 
@@ -52,14 +52,6 @@ The website should now be accessible at `http://localhost:3000/`.
 ## Deployment
 
 This website is automatically deployed to Netlify whenever changes are pushed to the `main` branch. The live site can be accessed at [https://govind-kumar.netlify.app/](https://govind-kumar.netlify.app/).
-
-## Contact
-
-If you have any questions, feedback, or collaboration inquiries, feel free to reach out to me:
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/g3vind)
-- Twitter: [Your Twitter Profile](https://twitter.com/g3vind)
 
 Thank you for visiting my portfolio!
 ```
