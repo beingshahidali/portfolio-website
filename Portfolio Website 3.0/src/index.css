@@ -3,6 +3,9 @@
 @tailwind components;
 @tailwind utilities;
 
+*body{
+  margin:px;
+}
 .max-width {
   @apply lg:mx-auto lg:px-24 xl:px-48 px-5;
 }
