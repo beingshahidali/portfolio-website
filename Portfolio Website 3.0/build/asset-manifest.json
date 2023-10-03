@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53da1b22.css",
+    "main.js": "/static/js/main.46da0450.js",
+    "static/media/Project3.png": "/static/media/Project3.7fa48ff5c3d9b3e7ea38.png",
+    "static/media/Project1.png": "/static/media/Project1.72c418bebb0c2086cb32.png",
+    "static/media/Project 6.png": "/static/media/Project 6.87a6811aa888f4229982.png",
+    "static/media/Profile.png": "/static/media/Profile.5255e581fa15bbea8df5.png",
+    "static/media/Project4.png": "/static/media/Project4.fe3859e1e432e27b7dcc.png",
+    "static/media/sql.png": "/static/media/sql.85fb38d6773862e917f4.png",
+    "static/media/node.png": "/static/media/node.fc3bd1ec69d7a50e685a.png",
+    "static/media/java.png": "/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/Project 2.png": "/static/media/Project 2.4d10a5e3a3b36eac6cd3.png",
+    "static/media/Project8.png": "/static/media/Project8.07c0d83f74b570c454b5.png",
+    "static/media/Project2.png": "/static/media/Project2.e5cc341dd35224b33799.png",
+    "static/media/Project5.png": "/static/media/Project5.7adc0bf789f348b7e4f7.png",
+    "static/media/firebase.png": "/static/media/firebase.8584a25cb878e376b81d.png",
+    "static/media/logo.svg": "/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/logo2.svg": "/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "index.html": "/index.html",
+    "main.53da1b22.css.map": "/static/css/main.53da1b22.css.map",
+    "main.46da0450.js.map": "/static/js/main.46da0450.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53da1b22.css",
+    "static/js/main.46da0450.js"
+  ]
+}
